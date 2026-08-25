@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Carlos Mendoza",
+    "department": "SOC",
+    "email": "cmendoza@gladiador-lab.local"
+  },
+  {
+    "name": "Ana Torres",
+    "department": "Threat Intelligence",
+    "email": "atorres@gladiador-lab.local"
+  },
+  {
+    "name": "Luis Rojas",
+    "department": "Infraestructura",
+    "email": "lrojas@gladiador-lab.local"
+  }
+]
