@@ -12,3 +12,9 @@ Empresa especializada en servicios de ciberseguridad.
 - Infraestructura
 - RRHH
 - Desarrollo
+
+## Contacto
+
+- security@gladiador-lab.local
+- rrhh@gladiador-lab.local
+- soporte@gladiador-lab.local
